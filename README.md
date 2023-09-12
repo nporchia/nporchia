@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **Python,Discord.py,Spring,JS,HTML,CSS,JQUERY,**
+- 💬 Ask me about **Python,Discord.py,Spring,JS,HTML,CSS,JQUERY,JWT**
 
 - 📫 How to reach me **nicoporchia@gmail.com**
 
