@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Developing websites**
 
-- 🌱 I’m currently learning **React,Nodejs(Express)**
+- 🌱 I’m currently learning **React,Spring Pack (Java)**
 
 - 🤝 I’m looking for help with **React**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **Python,Discord.py**
+- 💬 Ask me about **Python,Discord.py,Spring,JS,HTML,CSS,JQUERY,**
 
 - 📫 How to reach me **nicoporchia@gmail.com**
 
