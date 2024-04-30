@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,Discord.py,Spring,JS,HTML,CSS,JQUERY,JWT**
 
-- 📫 How to reach me **nicoporchia@gmail.com**
+- 📫 *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
